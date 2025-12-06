@@ -44,6 +44,8 @@ For each string, the program prints:
 
 The current state of the machine
 
+The machine halts in an accept or reject state as specified.
+
 The complete tape contents
 
 The head position on the tape
