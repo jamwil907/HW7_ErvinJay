@@ -1,0 +1,14 @@
+F:\H4XOR\TuringMachine\bin\Debug\net8.0\TuringMachine.exe
+F:\H4XOR\TuringMachine\bin\Debug\net8.0\TuringMachine.deps.json
+F:\H4XOR\TuringMachine\bin\Debug\net8.0\TuringMachine.runtimeconfig.json
+F:\H4XOR\TuringMachine\bin\Debug\net8.0\TuringMachine.dll
+F:\H4XOR\TuringMachine\bin\Debug\net8.0\TuringMachine.pdb
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.GeneratedMSBuildEditorConfig.editorconfig
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.AssemblyInfoInputs.cache
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.AssemblyInfo.cs
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.csproj.CoreCompileInputs.cache
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.dll
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\refint\TuringMachine.dll
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.pdb
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\TuringMachine.genruntimeconfig.cache
+F:\H4XOR\TuringMachine\obj\Debug\net8.0\ref\TuringMachine.dll
